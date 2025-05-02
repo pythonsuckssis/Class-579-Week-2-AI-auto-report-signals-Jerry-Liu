@@ -2,7 +2,16 @@
 
 A modern web application that transforms CSV data into concise, leader-friendly reports. The application processes report data and presents key metrics, changes, and blockers in a clean, single-page format with interactive visualizations.
 
-![Report Generator Screenshot](screenshot.png)
+
+![screenshot_2025-04-29_at_10 42 30___am_720](https://github.com/user-attachments/assets/84390371-5820-4fb5-ab0c-7008142d1bb5)
+## landing page of the AI Report Generator.
+![screenshot_2025-04-29_at_10 42 41___am_720](https://github.com/user-attachments/assets/84bf2cc4-2a1e-4157-82bd-a47c6ba07eb0)
+## The proof to show the successful upload of the CSV file. 
+![screenshot_2025-04-29_at_10 42 49___am_720](https://github.com/user-attachments/assets/1450bdfd-5efb-4ad4-905e-b93d60e742e2)
+## The official generator page including sections of key metrics, Changes & Blockers. 
+
+
+
 
 ## Features
 
